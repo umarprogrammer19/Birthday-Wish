@@ -1,7 +1,7 @@
 
 let firstSlideContainer =
 	document.getElementsByClassName("slide--content")[0];
-
+ 
 let secondSlideContainer =
 	document.getElementsByClassName("slide--content--one")[0];
 
